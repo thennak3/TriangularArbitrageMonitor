@@ -1,4 +1,4 @@
-import ccxt.async
+import ccxt.async_support
 
 
 def main_loop():
